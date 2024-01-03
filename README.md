@@ -1,14 +1,13 @@
-# PetRecommendationApp
+# Pet Recommendation App
 
-Pet Recommendation Website! Rate your preferences and algorithms will match you with a perfect friend based on compatibility
+Rate your preferences and algorithms will match you with a perfect friend based on your compatability!
+![image](https://github.com/SammyCohoe/Pet-Recommendation-App/assets/56962638/5890d52b-e8bd-48a1-a45e-d653e561e522)
 
-![image](https://github.com/PreyPatell/PersonalPortfolio/assets/84814013/cb027908-72c1-4aa7-85d9-3cefe60cc55e)
+![image](https://github.com/SammyCohoe/Pet-Recommendation-App/assets/56962638/540c3107-065b-484f-8196-83bd500aaaa2)
 
-![image](https://github.com/PreyPatell/PetRecommendationApp/assets/84814013/41f4a44d-177d-4882-bb15-b8df34c50a54)
+![image](https://github.com/SammyCohoe/Pet-Recommendation-App/assets/56962638/820c1ddc-6337-4ea7-90ac-38c7ec106764)
 
-![image](https://github.com/PreyPatell/PersonalPortfolio/assets/84814013/5adeb4fb-4366-4f85-8ad4-09be070c4cf6)
-
-![image](https://github.com/PreyPatell/PersonalPortfolio/assets/84814013/5a1fffe6-9a18-41d9-b9a5-5b896d3f26cf)
+![image](https://github.com/SammyCohoe/Pet-Recommendation-App/assets/56962638/1f8bb4b9-5af7-4058-b04f-10125b3f3370)
 
 ## Technologies
 
@@ -20,7 +19,16 @@ Pet Recommendation Website! Rate your preferences and algorithms will match you 
 <li>CSS</li>
 
 ## Running Locally
+In server
+``bash
+cd server
+npm install
+node server.js
+```
+In client
+``bash
+cd client
+npm install
+npm start dev
+```
 
-### cd server, npm install, node server.js
-
-### cd client, npm install, npm start
