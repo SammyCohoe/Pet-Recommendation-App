@@ -20,13 +20,13 @@ Rate your preferences and algorithms will match you with a perfect friend based 
 
 ## Running Locally
 In server
-``bash
+```bash
 cd server
 npm install
 node server.js
 ```
 In client
-``bash
+```bash
 cd client
 npm install
 npm start dev
